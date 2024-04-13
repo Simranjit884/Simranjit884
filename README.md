@@ -19,7 +19,8 @@ My name is Simranjit Singh Gill and I'm a fullstack web developer(heavily on the
 </p>
 
 ---
-<h2>Stats</h2>
+<h2> 📊Stats</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simranjit884&layout=compact)
 
 ---
