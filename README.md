@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<p>
+My name is Simranjit Singh Gill and I'm a fullstack web developer(heavily on the frontend side). I have an experience of around 4 years in web development.
+</p>
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
@@ -20,7 +24,7 @@
 
 ---
 
-<h2> 🚀 &nbsp; Technologies I am experienced with</h2>
+<h2> 🚀 &nbsp; Technologies & Tools i am experienced with</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
