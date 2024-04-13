@@ -17,8 +17,11 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simranjit884&layout=compact)
+
 ![](https://github.com/simranjit884/simranjit884/blob/master/generated/overview.svg)
+
 ![](https://github.com/simranjit884/simranjit884blob/master/generated/languages.svg)
+
 ---
 
 <h2> 🚀 &nbsp; Technologies I am experienced with</h2>
