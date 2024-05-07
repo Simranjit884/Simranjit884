@@ -8,6 +8,8 @@
   </a>
 </h1>
 
+![](https://komarev.com/ghpvc/?username=Simranjit884&color=brightgreen)
+
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
