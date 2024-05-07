@@ -25,9 +25,6 @@
 <h2> 📊Stats</h2>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simranjit884&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Simranjit884" />
-</p>
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simranjit884&theme=algolia" alt="Simranjit884" />
 </p>
 
