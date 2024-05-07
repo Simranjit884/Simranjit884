@@ -34,9 +34,11 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simranjit884&theme=algolia" alt="Simranjit884" />
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simranjit884&layout=compact&theme=algolia)
+</p>
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simranjit884&theme=algolia)
 
 ---
