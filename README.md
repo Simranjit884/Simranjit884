@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<p>
-My name is Simranjit Singh Gill and I'm a fullstack web developer(heavily on the frontend side). I have an experience of around 4 years in web development.
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Simranjit+Singh....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
