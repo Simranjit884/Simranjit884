@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/simranjit-singh-gill-8912a2a1/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssgill884@gmail.com)
 </p>
-
+<p><a href="https://drive.google.com/file/d/1dvOu_QM98W2eet5qiHcDciSu3ybDPTxb/view?usp=sharing">Resume</a></p>
 ---
 <h2> 📊Stats</h2>
 
